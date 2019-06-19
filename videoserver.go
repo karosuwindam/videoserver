@@ -29,7 +29,6 @@ type FileTpath struct {
 }
 
 const CGIPATH = "cgi.html"
-const FILEPATH = "C:/Users/katsunori/Downloads" //検索するファイルパス
 const PLAYPATH = "play.html"
 
 func Readjison() FileTpath {
